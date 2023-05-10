@@ -1,0 +1,26 @@
+{
+  "name": "nfd",
+  "version": "1.0.0",
+  "description": "NeckFire Desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . & hugo server -D", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neckfire/NFD.git"
+  },
+  "keywords": [
+    "desktop",
+    "free",
+    "linux",
+    "nft"
+  ],
+  "author": "Neckfire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neckfire/NFD/issues"
+  },
+  "homepage": "https://github.com/neckfire/NFD#readme"
+}
